@@ -1,0 +1,7 @@
+python-dotenv
+sounddevice
+scipy
+numpy
+elevenlabs==1.5.0
+langchain
+langchain-groq
